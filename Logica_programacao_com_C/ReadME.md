@@ -1,7 +1,9 @@
 ------IF em C------------
 
 P1- Solicitar ao usuário dois numeros, ordenar em ordem crescente e em seguida exibir na tela.
+
 P2- Solicitar dois numeros ao usuário, exibir na tela a soma dos mesmos.
+
 P3- Fazer um programa que calcule o aluguel, solicitar o valor do alugeul atual e os dias atrasados, 
 exibir o aluguel com o reajuste, caso tenha dias de atraso, terá 10% de juros.
 P4- Fazer um prorgama para calcular a media bimestral e verificar se o alunno está aprovado, reprovado ou de exame,
