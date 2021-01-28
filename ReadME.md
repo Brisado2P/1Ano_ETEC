@@ -18,7 +18,7 @@ Estudei na Etec entre 2018 e 2020 e lá aprendi e fiz muitas coisas, no meio do 
 * [Dev-Cpp](https://sourceforge.net/projects/orwelldevcpp/);
 * [Visual Studio Code](https://code.visualstudio.com);
 * [Xampp](https://www.apachefriends.org/pt_br/index.html);
-* [BrModelo](https://sourceforge.net/projects/brmodelo/).
+* [BrModelo 2](http://www.sis4.com/brModelo/antigo.html).
 
 _Pode estar faltando algumas ferramentas, porém as mais usadas foram listadas_
 
