@@ -41,5 +41,6 @@ _Pode estar faltando algumas ferramentas, porém as mais usadas foram listadas_
 * [Técnicas de Programação para Internet I](https://github.com/SFV-CORE/ETEC1/tree/master/Tecnicas_Programacao_internet_1).
 
 
+## Comunicado
 
-
+Infelizmente muitos arquivos foram corrompidos e não consegui recuperá-los, considero que aqui tem 1 terço do que fiz no primeiro ano, mas já da para ter uma ideia do que aprendemos lá.
