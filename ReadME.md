@@ -25,19 +25,19 @@ _Pode estar faltando algumas ferramentas, porém as mais usadas foram listadas_
 ### Este é 1 de 3 repositórios, cada um representando seu respectivo ano.
 
 #### Para acessar os demais
-* [2° Ano](https://github.com/SFV-CORE/ETEC2)
-* [3° Ano](https://github.com/SFV-CORE/ETEC3)
+* [2° Ano](https://github.com/SFV-CORE/ETEC2);
+* [3° Ano](https://github.com/SFV-CORE/ETEC3).
 
 
 ### Os projetos foram divididos em suas respectivas matérias
 
-* Lógica de Proramação
+* [Lógica de Proramação](https://github.com/SFV-CORE/ETEC1/tree/master/Logica_programacao);
 
-* Tecnologias e Linguagens para Banco de Dados I
+* [Tecnologias e Linguagens para Banco de Dados I](https://github.com/SFV-CORE/ETEC1/tree/master/Tecnologias_Linguagens_BD_1);
 
-* Operação de Software Aplicativo
+* [Operação de Software Aplicativo](https://github.com/SFV-CORE/ETEC1/tree/master/Operacao_Software_Aplicativo);
 
-* Técnicas de Programação para Internet I 
+* [Técnicas de Programação para Internet I](https://github.com/SFV-CORE/ETEC1/tree/master/Tecnicas_Programacao_internet_1).
 
 
 
