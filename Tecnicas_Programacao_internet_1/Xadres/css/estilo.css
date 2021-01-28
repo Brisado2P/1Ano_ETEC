@@ -1,0 +1,39 @@
+.wrapper{
+	   border: solid 2px;
+	   height: 392px;
+	   width: 392px;
+	  
+
+}
+.branco{
+	background: #FFFFFF;
+	border: solid 2px;
+	height: 45px;
+	width: 45px;
+}
+body{
+      background: #7FFFD4;
+}
+.preto{
+	background: #000;
+	border: solid 2px;
+	height: 45px;
+	width: 45px;
+
+}
+.branco2{
+	background: #FFFFFF;
+	border: solid 2px;
+	height: 45px;
+	width: 45px;
+	margin-left: 47px; 
+	margin-top: -2px;
+}
+.preto2{
+	background: #000;
+	border: solid 2px;
+	height: 45px;
+	width: 45px;
+	margin-left: 47px; 
+	margin-top: -2px;
+}
