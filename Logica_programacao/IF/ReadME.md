@@ -1,4 +1,4 @@
-# Lista de exercicios em C
+# Lista de exercícios
 
 * P1: Solicitar ao usuário dois numeros, ordenar em ordem crescente e em seguida exibir na tela;
 * P2: Solicitar dois numeros ao usuário, exibir na tela a soma dos mesmos;
