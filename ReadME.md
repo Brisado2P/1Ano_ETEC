@@ -12,6 +12,7 @@ Estudei na Etec entre 2018 e 2020 e lá aprendi e fiz muitas coisas, no meio do 
 * CSS - Ultilizado para definir o design das páginas Web;
 * C - Linguagem de programação inicial;
 * SqlServer - Como Banco de dados (usamos pouco, já que no começo é mais teórico).
+* Pacote Office
 
 #### Entre as ferramentas mais usadas temos:
 
@@ -35,7 +36,7 @@ _Pode estar faltando algumas ferramentas, porém as mais usadas foram listadas_
 
 * [Tecnologias e Linguagens para Banco de Dados I](https://github.com/SFV-CORE/ETEC1/tree/master/Tecnologias_Linguagens_BD_1);
 
-* [Operação de Software Aplicativo](https://github.com/SFV-CORE/ETEC1/tree/master/Operacao_Software_Aplicativo);
+* [Operação de Software e Aplicativos](https://github.com/SFV-CORE/ETEC1/tree/master/Operacao_Software_Aplicativo);
 
 * [Técnicas de Programação para Internet I](https://github.com/SFV-CORE/ETEC1/tree/master/Tecnicas_Programacao_internet_1).
 
