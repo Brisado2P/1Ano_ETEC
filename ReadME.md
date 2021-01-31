@@ -43,4 +43,7 @@ _Pode estar faltando algumas ferramentas, porém as mais usadas foram listadas_
 
 ## Comunicado
 
-Infelizmente muitos arquivos foram corrompidos e não consegui recuperá-los, considero que aqui tem 1 terço do que fiz no primeiro ano, mas já da para ter uma ideia do que aprendemos lá.
+* Infelizmente muitos arquivos foram corrompidos e não consegui recuperá-los, considero que aqui tem 1 terço do que fiz no primeiro ano,, mas já da para ter uma ideia do que aprendemos lá.
+
+* Coloquei aqui somente projetos funcionais, projetos teóricos aprendidos em IMC não coloquei.
+
