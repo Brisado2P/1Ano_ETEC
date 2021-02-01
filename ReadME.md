@@ -6,10 +6,10 @@ Repositório destinado a guardar/exibir projetos feitos durante meu primeiro ano
 
 Estudei na Etec entre 2018 e 2020 e lá aprendi e fiz muitas coisas, no meio do meu terceiro ano lá, decidi colocar os projetos aqui no GitHub, são projetos simples e alguns são bobos, porém mostra minha evolução.
 
-#### Entre as principais técnologias estudadas lá temos:
+#### Entre as principais tecnologias estudadas lá temos:
 
-* HTML - Linguagem de marcação ultilizada ate o 3° ano;
-* CSS - Ultilizado para definir o design das páginas Web;
+* HTML - Linguagem de marcação utilizada até o 3° ano;
+* CSS - Utilizado para definir o design das páginas Web;
 * C - Linguagem de programação inicial;
 * SqlServer - Como Banco de dados (usamos pouco, já que no começo é mais teórico).
 * Pacote Office
@@ -43,7 +43,7 @@ _Pode estar faltando algumas ferramentas, porém as mais usadas foram listadas_
 
 ## Comunicado
 
-* Infelizmente muitos arquivos foram corrompidos e não consegui recuperá-los, considero que aqui tem 1 terço do que fiz no primeiro ano,, mas já da para ter uma ideia do que aprendemos lá.
+* Infelizmente muitos arquivos foram corrompidos e não consegui recuperá-los, considero que aqui tem 1 terço do que fiz no primeiro ano, mas já dá para ter uma ideia do que aprendemos lá.
 
 * Coloquei aqui somente projetos funcionais, projetos teóricos aprendidos em IMC não coloquei.
 
