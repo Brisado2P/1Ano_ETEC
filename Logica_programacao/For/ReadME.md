@@ -6,7 +6,7 @@
 
 3. Exibir na tela os números de 1 a 25;
 
-4. Solicitar ao usuário até qual numero será exibido na tela (iniciar a partir do 1);
+4. Solicitar ao usuário até qual número será exibido na tela (iniciar a partir do 1);
 
 5. Solicitar ao usuário dois números e exibir na tela os números do intervalo, incluindo os números digitados;
 
