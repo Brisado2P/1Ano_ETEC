@@ -6,7 +6,7 @@
 
 3. Exibir na tela os números de 1 a 25;
 
-4. Solicitar ao usuário até qual numero será exibido na tela (iniciar a partir do 1);
+4. Solicitar ao usuário até qual número será exibido na tela (iniciar a partir do 1);
 
 5. Solicitar ao usuário dois números e exibir na tela os números do intervalo, incluindo os números digitados;
 
@@ -18,7 +18,7 @@
 
 9. Solicitar ao usuário dois números, correspondentes as extremidades de um intervalo, e exibir na ordem (crescente ou decrescente) em que ele digitou;
 
-10. Solicitar ao usuário números, soma-los até que seja digitado um numero negativo. O numero negativo não fará parte da conta;
+10. Solicitar ao usuário números, soma-los até que seja digitado um número negativo. O número negativo não fará parte da conta;
 
 11. Solicitar ao usuário dez números e contar quantos deles é par;
 
@@ -43,6 +43,6 @@
 		
     > b) Caso seja digitado um voto inválido (diferente de 0, 1, 2 e 3) acumular o voto como nulo.
 	
-    > c) Sabendo-se o total de votos, calcular a porcentagem atingida por cada candidator.
+    > c) Sabendo-se o total de votos, calcular a porcentagem atingida por cada candidato.
 		
     > d) Ao finalizar o algoritmo, exibir os candidatos – e as informações respectivas da apuração
